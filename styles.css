@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwallzoa.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fmoney-sign-backgrounds.jpg&f=1");
+    font-family: "Bookman Old Style";
+    text-align: center;
+}
+
+table, tr, th {
+    border: 1px solid black;
+    color: rgb(73, 240, 87);
+    margin: auto;
+}
+
+th {
+    background-color: rgb(5, 129, 88);
+    color: white;
+}
+
+td {
+    background-color: rgb(44, 40, 40);
+    height: 80px;
+    width: 80px;
+}
+
+th, td {
+    padding: 15px; 
+    text-align: center;
+}
